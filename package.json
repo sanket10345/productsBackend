@@ -1,0 +1,27 @@
+{
+  "name": "productsbackend",
+  "version": "1.0.0",
+  "description": "Backend containing CRUD for products &amp; auth api's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanket10345/productsBackend.git"
+  },
+  "author": "Sanket",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanket10345/productsBackend/issues"
+  },
+  "homepage": "https://github.com/sanket10345/productsBackend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "path": "^0.12.7"
+  }
+}
